@@ -135,9 +135,4 @@ class ExampleView extends StatelessWidget {
       },
     );
   }
-
-  void _showSnackbar(BuildContext context, String message) {
-    final snackBar = SnackBar(content: Text(message));
-    ScaffoldMessenger.of(context).showSnackBar(snackBar);
-  }
 }
