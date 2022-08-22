@@ -1,6 +1,6 @@
 # flutter_bloc_simple_v1
 
-|<img src="/preview/preview1.png" width="300"/>|<img src="/preview/preview2.png" width="300"/>|<img src="/preview/preview3.png" width="300"/>|
+| <img src="/preview/preview1.png" width="300"/> | <img src="/preview/preview2.png" width="300"/> | <img src="/preview/preview3.png" width="300"/> |
 
 - example_bloc.dart
 ```dart
